@@ -29,7 +29,7 @@ impl LifeCycle for Index {
             Row::with(
                 [
                     ("Contribute", "https://github.com/elvisjs/elvis#help-wanted"),
-                    ("The Book", "https://elvisjs.github.io/book/"),
+                    ("docs.rs", "https://docs.rs/elvis"),
                     ("Discord", "https://discord.gg/dxpefwy"),
                 ]
                 .iter()
